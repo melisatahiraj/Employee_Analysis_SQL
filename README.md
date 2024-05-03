@@ -1,4 +1,4 @@
-# sql-challenge-9
+# Employee Analysis SQL
 
 ## Requirements
 
